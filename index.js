@@ -1,1 +1,1 @@
-writeln ("What a story, Mark!"); 
+console.log(2+2)
