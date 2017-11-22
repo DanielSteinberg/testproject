@@ -1,1 +1,1 @@
-writeln ("Oh, hi Mark!"); 
+writeln ("What a story, Mark!"); 
